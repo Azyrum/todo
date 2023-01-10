@@ -1,0 +1,22 @@
+.place{
+    height: 400px;
+    width: 500px;
+    border: 2px solid black;
+}
+.necesseryThings{
+    width: 80%;
+    height: auto;
+    border: 1px solid red;
+    font-size: 32px;
+    float: left;
+}
+.deleteButton{
+    width: 32px;
+    height: 32px;
+    float: left;
+}
+.crossLineButton{
+    width: 32px;
+    height: 32px;
+    float: left;
+}
